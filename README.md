@@ -26,4 +26,11 @@ State Management: Flutter Provider / setState
 
 Version Control: Git & GitHub
 📸 Screenshots
+![UI Screenshot](https://github.com/Balamuugan/Travel-Diary-app/blob/main/Travel/welcome.png?raw=true)
+![UI Screenshot](https://github.com/Balamuugan/Travel-Diary-app/blob/main/Travel/sign%20up.png?raw=true)
+![UI Screenshot](https://github.com/Balamuugan/Travel-Diary-app/blob/main/Travel/login.png?raw=true)
+![UI Screenshot](https://github.com/Balamuugan/Travel-Diary-app/blob/main/Travel/form.png?raw=true)
+![UI Screenshot](https://github.com/Balamuugan/Travel-Diary-app/blob/main/Travel/data.png?raw=true)
+
+
 
