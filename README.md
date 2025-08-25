@@ -1,16 +1,29 @@
-# travel_diary_app
+🌍 Travel Diary App
 
-A new Flutter project.
+A Flutter-based mobile application that helps users capture, organize, and relive their travel experiences. The app enables users to create personal and family trip cards, save travel notes, and securely store them with Firebase integration for seamless access across devices.
 
-## Getting Started
+✨ Features
 
-This project is a starting point for a Flutter application.
+📝 Travel Notes – Record and organize trip details easily
 
-A few resources to get you started if this is your first Flutter project:
+👨‍👩‍👧 Family Trip Cards – Share and manage family journeys
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+☁️ Firebase Integration – Secure, real-time cloud storage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🔍 Search & Explore – Find past trips and experiences
+
+📱 Cross-Platform – Runs on Android & iOS with Flutter
+
+🚀 Tech Stack
+
+Frontend: Flutter (Dart)
+
+Backend & Database: Firebase Firestore
+
+Authentication: Firebase Auth
+
+State Management: Flutter Provider / setState
+
+Version Control: Git & GitHub
+📸 Screenshots
+
